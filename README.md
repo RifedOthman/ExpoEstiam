@@ -30,3 +30,7 @@ npm start
 
 L'application est maintenant prête à être utilisée !
 
+## Démonstration
+
+![Démonstration de l'application](public/gif1.gif)
+
