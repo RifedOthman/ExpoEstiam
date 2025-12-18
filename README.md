@@ -35,4 +35,4 @@ L'application est maintenant prête à être utilisée !
 ![Démonstration de l'application](public/gif1.gif)
 
 ## Écran détail voyage - CRUD Activités - Journal de voyage - Mode sombre 
-![Démonstration de l'application](public/gif2.gif)
+![Démonstration de l'application](public/Gif2.gif)
