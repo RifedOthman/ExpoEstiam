@@ -37,5 +37,4 @@ L'application est maintenant prête à être utilisée !
 ## Écran détail voyage - CRUD Activités - Journal de voyage - Mode sombre 
 ![Démonstration de l'application](public/Gif2.gif)
 ## Mode sombre - Profil utilisateur  
-
 ![Démonstration de l'application](public/Gif3.gif)
