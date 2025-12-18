@@ -38,4 +38,4 @@ L'application est maintenant prête à être utilisée !
 ![Démonstration de l'application](public/Gif2.gif)
 
 ## Mode sombre - Profil utilisateur  
-![Démonstration de l'application](public/Gif3.gif)
+![Démonstration de l'application](public/GIF3.gif)
