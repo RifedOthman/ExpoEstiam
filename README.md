@@ -34,9 +34,8 @@ L'application est maintenant prête à être utilisée !
 ## Favoris - Recherche & Filtres - AUTH - Animations 
 ![Démonstration de l'application](public/gif1.gif)
 
-## Écran détail voyage - CRUD Activités - Journal de voyage - Mode sombre 
+## Écran détail voyage - CRUD Activités - Journal de voyage 
 ![Démonstration de l'application](public/Gif2.gif)
 
 ## Mode sombre - Profil utilisateur  
-![Démonstration de l'application](public/Gif2.gif)
 ![Démonstration de l'application](public/Gif3.gif)
